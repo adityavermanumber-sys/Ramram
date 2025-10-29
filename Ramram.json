@@ -19,12 +19,12 @@
     "username": "bolobhaiop",
     "password": "1225",
     "expiresAt": "2025-10-28",
-    "allowOffline": ture
+    "allowOffline": false
 }, 
 {
     "id": "912c3278d3d37b52",
-    "username": "adiii",
-    "password": "12343",
-    "expiresAt": "2025-11-03",
+    "username": "12345",
+    "password": "2025",
+    "expiresAt": "2025-11-20",
     "allowOffline": false
 }
