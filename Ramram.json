@@ -26,5 +26,5 @@
     "username": "adii",
     "password": "1233",
     "expiresAt": "2025-11-3",
-    "allowOffline": false
+    "allowOffline": true
 }
