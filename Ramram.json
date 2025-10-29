@@ -24,7 +24,7 @@
 {
     "id": "912c3278d3d37b52",
     "username": "adii",
-    "password": "123",
-    "expiresAt": "2025-10-30",
-    "allowOffline": true
+    "password": "1233",
+    "expiresAt": "2025-11-3",
+    "allowOffline": false
 }
